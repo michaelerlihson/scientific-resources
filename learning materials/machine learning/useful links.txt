@@ -1,2 +1,3 @@
 Link to Causal Inference Book: https://matheusfacure.github.io/python-causality-handbook/landing-page.html
 Machine Learning Knowledge Graph, Visual App : https://app.learney.me/
+Explorations in Artificial Intelligence and Machine Learning Book: https://www.routledge.com/rsc/downloads/AI_FreeBook.pdf
