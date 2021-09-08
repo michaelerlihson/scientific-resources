@@ -2,3 +2,4 @@ Link to Causal Inference Book: https://matheusfacure.github.io/python-causality-
 Machine Learning Knowledge Graph, Visual App : https://app.learney.me/
 Explorations in Artificial Intelligence and Machine Learning Book: https://www.routledge.com/rsc/downloads/AI_FreeBook.pdf
 Classic ML Course by MicrosoftLearn: https://github.com/microsoft/ML-For-Beginners
+Introduction to Statistical Learning Book: https://www.ime.unicamp.br/~dias/Intoduction%20to%20Statistical%20Learning.pdf
