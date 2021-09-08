@@ -3,3 +3,4 @@ Machine Learning Knowledge Graph, Visual App : https://app.learney.me/
 Explorations in Artificial Intelligence and Machine Learning Book: https://www.routledge.com/rsc/downloads/AI_FreeBook.pdf
 Classic ML Course by MicrosoftLearn: https://github.com/microsoft/ML-For-Beginners
 Introduction to Statistical Learning Book: https://www.ime.unicamp.br/~dias/Intoduction%20to%20Statistical%20Learning.pdf
+From Zero to Research Scientist full resources guide:  https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide
