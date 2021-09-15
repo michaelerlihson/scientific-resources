@@ -1,1 +1,2 @@
 Leading Machine Learning Blog to Follow: https://www.theinsaneapp.com/2021/04/top-machine-learning-blogs-to-follow-in-2021.html
+Statistical foundations of machine learning, Second edition by Gianluca Bontempi: https://www.freetechbooks.com/statistical-foundations-of-machine-learning-t949.html
