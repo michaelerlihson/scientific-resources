@@ -5,5 +5,7 @@ This repo contains deep learning(DL) papers reviews, presentations on DL/Data Sc
 
 The repo contains three main parts: 
 - Deep Learning Paper Reviews(mostly in Hebrew)
+
 - Learning Materials on Data Science and Machine Learning including content about programming (mostly python), Machine Learning book, mathematical tools required to master Machine Learning, interesting Math resources
+
 - Slidesets (WIP), which I presented in meetups and lectures
