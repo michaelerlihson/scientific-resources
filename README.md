@@ -12,7 +12,7 @@ Includes content about programming (mostly python), Machine Learning book, mathe
 
 - Slidesets (WIP), which I presented in meetups and lectures
 
-Some folders contain a file called useful_links.txt with links to relevant (to this folder) materials
+Some folders contain a file called "useful_links.txt" with links to relevant (to this folder) materials
 
 The repo is being constanly updated, Im adding new materials all the time. If you have a good material on DS, ML, math, please let me know and I'll add it to the repo.
 
