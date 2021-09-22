@@ -12,4 +12,6 @@ Includes content about programming (mostly python), Machine Learning book, mathe
 
 - Slidesets (WIP), which I presented in meetups and lectures
 
+Some folders contain a file called useful_links.txt with links to relevant (to this folder) materials
+
 ![alt text](https://images.pexels.com/photos/5475809/pexels-photo-5475809.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500)
