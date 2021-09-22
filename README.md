@@ -1,6 +1,6 @@
 # data science, machine learning, math and programming resources in English and Hebrew
-This repo contains deep learning(DL) papers reviews, presentations on DL/Data Science topics, data science learning materials
 
+This repo contains data science/machine learning/math learning materials, deep learning(DL) papers reviews and presentations on DL/Data Science topics, 
 
 
 The repo contains three main parts: 
