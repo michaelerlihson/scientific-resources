@@ -1,0 +1,1 @@
+https://github.com/labmlai/annotated_deep_learning_paper_implementations: collection of simple PyTorch implementations of neural networks and related algorithms
