@@ -1,0 +1,1 @@
+Probabilistic Programming & Bayesian Methods for Hackers Book: http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
