@@ -1,1 +1,2 @@
 Using neural nets to recognize handwritten digits: http://neuralnetworksanddeeplearning.com/chap1.html
+https://homes.cs.washington.edu/~sewoong/slide_ISITTutorial2018.pdf - slides about deep learning and information theory synergy
