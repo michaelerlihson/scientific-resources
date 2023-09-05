@@ -9,6 +9,8 @@ The repo contains three main parts:
 
 - Deep Learning Paper Reviews(mostly in Hebrew)
 
+- Blogs, written by me (also in collaboration with other people)
+
 - Learning Materials on Data Science and Machine Learning 
 Includes content about programming (mostly python), Machine Learning book, mathematical tools required to master Machine Learning, interesting Math resources (all in English)
 
